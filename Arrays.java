@@ -196,6 +196,6 @@ public class Arrays {
                 default:
                     System.out.println("Invalid choice. Try again.");
             }
-        } while (choice != 8);
+        } while (choice != 9);
     }
 }
